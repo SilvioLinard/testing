@@ -1,0 +1,10 @@
+.grayImg{
+width: 270px;
+border-radius: 60px;
+filter: grayscale(100%)}
+
+.ColorImg{
+    width: 270px;
+border-radius: 60px;
+
+}
